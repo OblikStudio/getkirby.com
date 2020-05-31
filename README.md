@@ -1,4 +1,4 @@
-# Kirby website
+# Kirby Website
 
 This repo contains the whole <getkirby.com> website.
 
